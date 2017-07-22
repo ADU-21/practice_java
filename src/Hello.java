@@ -3,6 +3,6 @@
  */
 public class Hello {
     public void say(String s){
-        System.out.print("你好！");
+        System.out.print(s);
     }
 }
