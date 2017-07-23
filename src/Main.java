@@ -54,8 +54,7 @@ public class Main {
                 for(Color c:Color.values()){
                     if(a != b && b != c && a != c){
                         System.out.print(a+","+b+","+c+"|");
-                    }
-                }
+                    } }
             }
         }
     }
